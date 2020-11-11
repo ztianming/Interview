@@ -99,19 +99,45 @@
 
 ### 基础内容
 
+[基础知识 CS-Notes](https://github.com/CyC2018/CS-Notes)
+
 **数据结构+算法** 大部分职位都会涉及到， **计算机网络**、**操作系统** 具体看职位要求
 
 数据结构+算法 
 
 推荐去[力扣中文站](https://leetcode-cn.com/)刷题，建议按照类型去刷，遇到不会的不要死磕，去看看题解
+
 建议以简单和中等为主，
 
+推荐题解
+
+[LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)
+
+[leetcode](https://github.com/azl397985856/leetcode)
+
+[leetcode-master](https://github.com/youngyangyang04/leetcode-master)
+
+[hello-algorithm](https://github.com/geekxh/hello-algorithm)
+
+[算法小抄](https://labuladong.gitbook.io/algo/)
 
 ### 专业内容
 
 面向**面经**复习，主要是基础+底层原理，
 
 以Java工程师为例，主要内容：Java基础知识、JVM、多线程、锁、各种框架Spring、SpringBoot等、（新的技术栈等）
+
+
+
+[面试圈](http://www.mianshigee.com/)
+
+Java相关资料
+
+[JavaGuide](https://snailclimb.gitee.io/javaguide/#/)
+
+[advanced-Java](https://github.com/doocs/advanced-java)
+
+## [Java工程师成神之路](https://hollischuang.github.io/toBeTopJavaer/#/menu?id=to-be-top-javaer-java工程师成神之路)
 
 
 
