@@ -140,15 +140,23 @@
 
 推荐题解
 
-[LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)
+[LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) 程序员吴师兄
 
-[leetcode](https://github.com/azl397985856/leetcode)
+[leetcode](https://github.com/azl397985856/leetcode) lucifer
 
 [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
 
-[hello-algorithm](https://github.com/geekxh/hello-algorithm)
+[hello-algorithm](https://github.com/geekxh/hello-algorithm) geekxh 
 
 [算法小抄](https://labuladong.gitbook.io/algo/)
+
+
+
+常考题目
+
+[LeetCode Top](https://leetcode-cn.top/#/home)
+
+
 
 ### 专业内容
 
@@ -260,7 +268,7 @@ Java相关资料
 
 面试都通过后，大约一周后，HR会通过电话的方式和你具体聊一下工作的薪资、福利等问题
 
-关于薪资方面 可以在微信小程序 offershow、薪资爆料等进行搜索，提前设定一个预期的薪资范围
+关于薪资方面 可以在微信小程序 **offershow**、**薪资爆料**等进行搜索，提前设定一个预期的薪资范围
 
 不要等到谈薪的时候，抓瞎。
 
@@ -268,7 +276,7 @@ Java相关资料
 
 
 
-关于工作环境、氛围，可以去app 脉脉上去搜索相关信息。
+关于工作环境、氛围，可以去 **脉脉**上去搜索相关信息。
 
 
 
@@ -293,8 +301,6 @@ Java相关资料
 ## 总结
 
 希望大家提前准备，祝大家成为offer收割机，收割到自己满意的offer。
-
-
 
 
 
